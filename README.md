@@ -8,5 +8,4 @@ NMPC:
 
 PD:
 
-<img src="https://github.com/user-attachments/assets/21ea6c2d-8533-40be-8688-405774c38c2b" width="500" />
-
+<img src="https://github.com/user-attachments/assets/e3e5cc94-b7e7-4682-8291-c1d318a437ba" width="500" />
